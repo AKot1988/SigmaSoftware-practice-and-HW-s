@@ -1,0 +1,1 @@
+Hi! You have to open main folder of this task in ytour IDE. And in html file "index.html" run with liveServer (you should have liveserver extention).
